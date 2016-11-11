@@ -1,0 +1,14 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: challenge-visualrecognition
+  host: challenge-visualrecognition
+  disk_quota: 1024M
+  services:
+  - codechallenge-visualRecognition
+declared-services:
+  codechallenge-visualRecognition:
+    label: watson_vision_combined
+    plan: free
