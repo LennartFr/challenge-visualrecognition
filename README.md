@@ -61,7 +61,7 @@ This challenge shows you how to deploy a Bluemix application, use IBM Bluemix De
   ```
   ...  
   // Uncomment
-  //request.post('https://svcctracker.mybluemix.net/check/svccvisualrecognition', {form: submission}, function(err, response, body) {
+  //request.post('https://svcctracker.mybluemix.net/check/challengevisualrecognition', {form: submission}, function(err, response, body) {
   //  res.send(body);
   //});
   ...
@@ -72,7 +72,7 @@ This challenge shows you how to deploy a Bluemix application, use IBM Bluemix De
   ```
   ...  
   // Uncomment
-  request.post('https://svcctracker.mybluemix.net/check/svccvisualrecognition', {form: submission}, function(err, response, body) {
+  request.post('https://svcctracker.mybluemix.net/check/challengevisualrecognition', {form: submission}, function(err, response, body) {
     res.send(body);
   });
   ...
