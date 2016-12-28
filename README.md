@@ -12,7 +12,7 @@ You can test the [Watson Translator Service demo](https://visual-recognition-dem
 1. [![Crete a Free Account](./img/createaccount.png)](./img/createaccount.png)
 Creating a Bluemix is easy. For a detailed desription, [check this YouTube video](https://www.youtube.com/watch?v=kUPwdfL8_oU&t=23s) 
 
-2.Deploy the challenge application
+2. Deploy the challenge application
 
  [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/bluemix-code-challenge/challenge-visualrecognition.git)
 
@@ -20,21 +20,21 @@ Creating a Bluemix is easy. For a detailed desription, [check this YouTube video
 
   [![Deploy challenge application to IBM Bluemix](./img/deploy.png)](./img/deploy.png)
 
-3. Wait for the deployment to complete. Click on Edit Code.
+4. Wait for the deployment to complete. Click on Edit Code.
 
   [![Deployment summary](./img/deploymentsummary.png)](./img/deploymentsummary.png)
 
-4. The IBM Bluemix DevOps Services tools allow you to edit code in the browser, configure a pipeline of processes to execute when new code is committed, and deploy applications automatically to IBM Bluemix.
+5. The IBM Bluemix DevOps Services tools allow you to edit code in the browser, configure a pipeline of processes to execute when new code is committed, and deploy applications automatically to IBM Bluemix.
 
   Select `app.js` to edit the application source code.
 
   [![IBM Bluemix DevOps Services](./img/devops.png)](./img/devops.png)
 
-5. In this challenge, we’ll classify an image.
+6. In this challenge, we’ll classify an image.
 
   [![IBM Bluemix DevOps Editor](./img/editor.png)](./img/editor.png)
 
-6. Replace the image name `dog.png` on line 42 with the image name `car.png` as shown below.
+7. Replace the image name `dog.png` on line 42 with the image name `car.png` as shown below.
 
   ```
   ...
@@ -54,7 +54,7 @@ Creating a Bluemix is easy. For a detailed desription, [check this YouTube video
   ...
   ```
 
-7. Replace the value for the `email` property on line 52 with your email address.
+8. Replace the value for the `email` property on line 52 with your email address.
   ```
   ...
     // Change only the email address.
@@ -64,7 +64,7 @@ Creating a Bluemix is easy. For a detailed desription, [check this YouTube video
   ...
   ```
 
-8. Lastly, uncomment lines 65 – 67 so the application can be verified.
+9. Lastly, uncomment lines 65 – 67 so the application can be verified.
 
   ```
   ...  
@@ -86,7 +86,7 @@ Creating a Bluemix is easy. For a detailed desription, [check this YouTube video
   ...
   ```
 
-9. Now that changes have been made, the following steps will commit the changes to the attached Git repo. Click on the Git icon on the left side.
+10. Now that changes have been made, the following steps will commit the changes to the attached Git repo. Click on the Git icon on the left side.
 
   [![Git icon](./img/giticon.png)](./img/giticon.png)
 
