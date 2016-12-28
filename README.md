@@ -1,6 +1,11 @@
 # Code Challenge: Visual Recognition
 
 This challenge shows you how to deploy a Bluemix application, use IBM Bluemix DevOps Services, and use the IBM Watson Visual Recognition service in Node.js.
+####
+In this challenge you will work with a Node.js visual recognition application hosted on the [IBM Bluemix DevOps Services] (https://hub.jazz.net) cloud and using the [Watson Visual Recognition](https://www.ibm.com/watson/developercloud/visual-recognition.html) service in the [IBM Bluemix cloud](https://bluemix.net/). 
+
+You can test the [Watson Translator Service demo](https://visual-recognition-demo.mybluemix.net/), study up on the [Watson Visual Recognition API Reference] (https://www.ibm.com/watson/developercloud/visual-recognition/api/v3/) and read the [Watson Visual Recognition Documentation.https://www.ibm.com/watson/developercloud/doc/visual-recognition/) 
+
 
 ## Running the app on Bluemix
 
