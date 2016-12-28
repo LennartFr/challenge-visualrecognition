@@ -4,16 +4,19 @@ This challenge shows you how to deploy a Bluemix application, use IBM Bluemix De
 ####
 In this challenge you will work with a Node.js visual recognition application hosted on the [IBM Bluemix DevOps Services] (https://hub.jazz.net) cloud and using the [Watson Visual Recognition](https://www.ibm.com/watson/developercloud/visual-recognition.html) service in the [IBM Bluemix cloud](https://bluemix.net/). 
 
-You can test the [Watson Translator Service demo](https://visual-recognition-demo.mybluemix.net/), study up on the [Watson Visual Recognition API Reference] (https://www.ibm.com/watson/developercloud/visual-recognition/api/v3/) and read the [Watson Visual Recognition Documentation.https://www.ibm.com/watson/developercloud/doc/visual-recognition/) 
+You can test the [Watson Translator Service demo](https://visual-recognition-demo.mybluemix.net/), study up on the [Watson Visual Recognition API Reference] (https://www.ibm.com/watson/developercloud/visual-recognition/api/v3/) and read the [Watson Visual Recognition Documentation.(https://www.ibm.com/watson/developercloud/doc/visual-recognition/) 
 
 
 ## Running the app on Bluemix
 
-1. Deploy the challenge application
+1. [![Crete a Free Account](./img/createaccount.png)](./img/createaccount.png)
+Creating a Bluemix is easy. For a detailed desription, [check this YouTube video](https://www.youtube.com/watch?v=kUPwdfL8_oU&t=23s) 
+
+2.Deploy the challenge application
 
  [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/bluemix-code-challenge/challenge-visualrecognition.git)
 
-2. Enter an application name. The host you choose will determinate the subdomain of your application's URL: `<host>.mybluemix.net`.
+3. Enter an application name. The host you choose will determinate the subdomain of your application's URL: `<host>.mybluemix.net`.
 
   [![Deploy challenge application to IBM Bluemix](./img/deploy.png)](./img/deploy.png)
 
