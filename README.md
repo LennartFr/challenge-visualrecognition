@@ -7,12 +7,11 @@ You can test the [Watson Translator Service demo](https://visual-recognition-dem
 
 ## Running the app on Bluemix
 
-1. [![Crete a Free Account](./img/createaccount.png)](./img/createaccount.png)
-Creating a Bluemix is easy. For a detailed desription, [check this YouTube video](https://www.youtube.com/watch?v=kUPwdfL8_oU&t=23s) 
+1.  [![Crete a Free Account](./img/createaccount.png)](./img/createaccount.png)
+Creating a Bluemix is easy. For a detailed desription, check this YouTube video: https://www.youtube.com/watch?v=kUPwdfL8_oU&t=23s 
+Deploy the challenge application
 
-2. Deploy the challenge application
-
- [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/bluemix-code-challenge/challenge-visualrecognition.git)
+ [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/bluemix-code-challenge/challenge-languagetranslation.git)
 
 3. Enter an application name. The host you choose will determinate the subdomain of your application's URL: `<host>.mybluemix.net`.
 
